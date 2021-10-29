@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Abdurrohman
-- 👀 I’m interested in Web Developer and Back-End Algorithm
+- 👀 I’m interested in Front-end and Back-end Developer
 - 🌱 I’m currently learning Javascript and Python
-- 💞️ I’m looking to collaborate on any back-end project
+- 💞️ I’m looking to collaborate on any back-end or front-end project
 - 📫 Contact me at WhatsApp +6285641889512
 
 <!---
